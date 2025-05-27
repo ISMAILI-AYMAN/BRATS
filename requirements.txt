@@ -1,0 +1,8 @@
+flask
+numpy
+nibabel
+pydicom
+keras
+matplotlib
+scipy
+werkzeug
