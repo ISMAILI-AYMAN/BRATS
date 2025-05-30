@@ -70,9 +70,9 @@ Pour tester l’application, utilise des fichiers d’exemple du dataset BRATS o
 Les contributions sont les bienvenues !  
 Merci de proposer une *issue* ou une *pull request*.
 
-## 📄 Licence
+## 📄 Licence et reference
 
-Projet open source sous licence MIT.
+DigitalSreeni : chaine youtube + code
 
 ---
 
